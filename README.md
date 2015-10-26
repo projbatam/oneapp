@@ -1,6 +1,6 @@
-# One Month Rails
+# One App
 
-This is the pinteresting sample applicatio for
-[*One Month Rails*](http://onemonthrails.com)
+One App In Ruby On Rails
+[*One App*](http://oneapp.com)
 
-by [Mattan Griffel](http://mattangreffile.com)
+by [Whisnu Kurniawan Putra](http://whisnu.wordpress.com)
